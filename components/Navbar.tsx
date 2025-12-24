@@ -67,9 +67,6 @@ const Navbar: React.FC = () => {
               alt="Lucenia" 
               className="h-8 w-auto" 
             />
-            <span className={`font-semibold tracking-tight text-lg transition-colors duration-300 ${isScrolled ? 'text-slate-900' : 'text-slate-900'}`}>
-              Lucenia
-            </span>
           </div>
 
           {/* Desktop Nav */}
