@@ -67,7 +67,6 @@ const Footer: React.FC = () => {
                             alt="Lucenia" 
                             className="h-6 w-auto" 
                         />
-                        <span className="font-semibold text-slate-900">Lucenia</span>
                     </div>
                     <p className="text-sm text-slate-500 leading-relaxed mb-6">
                         The secure, scalable retrieval engine for modern enterprise AI.
